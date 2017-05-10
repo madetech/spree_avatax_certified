@@ -1,0 +1,1 @@
+SpreeAvataxCertified::Seeder.seed!

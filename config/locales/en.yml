@@ -1,0 +1,5 @@
+en:
+  spree:
+    avalara:
+      settings: Avalara Settings
+      settings_tax_use_codes: Avalara Settings Tax Use Codes
